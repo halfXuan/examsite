@@ -1,0 +1,37 @@
+{
+  "id": "3268325",
+  "name": "artExam",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "体操培训考试",
+  "glyphs": [
+    {
+      "icon_id": "28414001",
+      "name": "mine",
+      "font_class": "mine",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "28414002",
+      "name": "exam",
+      "font_class": "exam",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "28414003",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "28414004",
+      "name": "record",
+      "font_class": "record",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}
